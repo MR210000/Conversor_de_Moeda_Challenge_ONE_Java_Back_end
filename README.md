@@ -96,7 +96,8 @@
         2025-10-30 09:50:31 | 1,00 USD -> 1451,50 ARS
         2025-10-30 09:50:56 | 1,00 CLP -> 4,14 COP
 
-🧪 Testes
+🧪 Testes:
+    
     O programa foi testado manualmente com diferentes combinações de moedas e valores para garantir:
     
         Validação de entrada do usuário
@@ -115,7 +116,7 @@
 
 📌 Observações:
     
-        É necessário acesso à internet para consultar as taxas de câmbio.
+        É necessário acesso à internet para consultar as taxas de câmbio no site: (https://www.exchangerate-api.com//).
         A chave da API pode ser obtida gratuitamente no site ExchangeRate-API.
         O programa pode ser expandido para incluir mais moedas ou interface gráfica futuramente.
 
