@@ -39,14 +39,14 @@
 
 🧰 Tecnologias e Bibliotecas Utilizadas:
 
-      Tecnologia	  Finalidade
-      Java 11+	    Linguagem principal
-      HttpClient	  Requisições HTTP para a API de câmbio
-      HttpRequest	  Configuração das chamadas GET
-      HttpResponse	Manipulação da resposta HTTP
-      Gson	        Análise e conversão de dados JSON
-      Scanner	      Captura de entrada do usuário via console
-      FileWriter	  Registro de histórico de conversões em arquivo
+      Tecnologia    Finalidade
+      Java 11+      Linguagem principal
+      HttpClient    Requisições HTTP para a API de câmbio
+      HttpRequest   Configuração das chamadas GET
+      HttpResponse  Manipulação da resposta HTTP
+      Gson          Análise e conversão de dados JSON
+      Scanner       Captura de entrada do usuário via console
+      FileWriter    Registro de histórico de conversões em arquivo
 
 📦 Estrutura do Projeto:
 
